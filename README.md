@@ -3,8 +3,7 @@ This repository implements this new [paper](https://arxiv.org/pdf/1908.03795.pdf
 
 Full credits given to the **original authors** and the **numpy implementation by Leo Dirac**. 
 
-I implemented this and will productionize it as a lot of my workflows are on the GPUs with PyTorch.
-
+I ported this to PyTorch as a lot of my workflows are on the GPUs with PyTorch.
 
 ## Run Notebook on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ritchieng/eigenvectors-from-eigenvectors/blob/master/notebooks/comparison.ipynb)
