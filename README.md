@@ -10,7 +10,7 @@ I ported this to PyTorch as a lot of my workflows are on the GPUs with PyTorch.
 
 
 ## Core Equation
-![./images/lemma2.png]
+![](./images/lemma2.png)
 
 This is the core equation you will notice being referenced as `equation 2` in the code.
 
