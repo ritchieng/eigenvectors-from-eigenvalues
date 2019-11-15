@@ -8,6 +8,12 @@ I ported this to PyTorch as a lot of my workflows are on the GPUs with PyTorch.
 ## Run Notebook on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ritchieng/eigenvectors-from-eigenvectors/blob/master/notebooks/comparison.ipynb)
 
+## Authors and Abstract
+PETER B. DENTON, STEPHEN J. PARKE, TERENCE TAO, AND XINING ZHANG
+
+"We present a new method of succinctly determining eigenvectors
+from eigenvalues. Specifically, we relate the norm squared of the elements of
+eigenvectors to the eigenvalues and the submatrix eigenvalues."
 
 ## Core Equation
 ![](./images/lemma2.png)
