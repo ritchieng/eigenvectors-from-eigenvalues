@@ -24,18 +24,15 @@ This is the core equation you will notice being referenced as `equation 2` in th
 - PyTorch 1.3.1 (can be most versions of PyTorch as I used very core basic PyTorch functions)
 - Python 3.6
 
+## Repository Citation
+- If you would like to give some credit to this implementation, these are the relevant links.
+    - [![DOI](https://zenodo.org/badge/221868248.svg)](https://zenodo.org/badge/latestdoi/221868248)
+    - [Eigenvectors from Eigenvalues CPU and GPU Implementation](https://www.researchgate.net/publication/337322294_Eigenvectors_from_Eigenvalues_CPU_and_GPU_Implementation)
+
 ## Full Credits
 - [Original authors' paper: Eigenvectors from Eigenvalues](https://arxiv.org/pdf/1908.03795.pdf)
 - [Quantamagazine article: Neutrinos Lead to Unexpected Discovery in Basic Math](https://www.quantamagazine.org/neutrinos-lead-to-unexpected-discovery-in-basic-math-20191113/)
 - [Leo Dirac numpy implementation](https://github.com/leopd/geometric-intuition/blob/master/linear-algebra/eigenvectors%20from%20eigenvalues.ipynb)
-
-Full credits given to all links stated here. 
-
-## Links
-- [![DOI](https://zenodo.org/badge/221868248.svg)](https://zenodo.org/badge/latestdoi/221868248)
-- [Eigenvectors from Eigenvalues CPU and GPU Implementation](https://www.researchgate.net/publication/337322294_Eigenvectors_from_Eigenvalues_CPU_and_GPU_Implementation)
-
-If you would like to give some credit to this implementation, these are the relevant links.
 
 ## License
 MIT
