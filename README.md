@@ -1,5 +1,5 @@
 # New Eigenvectors from Eigenvalues Calculation
-This repository implements this new [paper](https://arxiv.org/pdf/1908.03795.pdf) that allows us to calculate eigenvectors from eigenvectors elegantly through PyTorch.
+This repository implements this new [paper](https://arxiv.org/pdf/1908.03795.pdf) that allows us to calculate eigenvectors from eigenvalues elegantly through PyTorch.
 
 I ported this to PyTorch as a lot of my workflows are on the GPUs with PyTorch.
 
