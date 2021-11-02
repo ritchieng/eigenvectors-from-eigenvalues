@@ -8,9 +8,17 @@ Easily run it on your browser through Google Colab or copy the function locally.
 
 ## Core Equation: Lemma 2
 
-**Lemma 2.** __The norm squared of the elements of the eigenvectors are related to the eigenvalues and the submatrix eigenvalues,__
+**Lemma 2.** The norm squared of the elements of the eigenvectors are related to the eigenvalues and the submatrix eigenvalues.
+
+<p align="center">
+    <img src='lemma2.png' />
+</p>
+
+```
+Mathjax of Lemma 2
 
 $$| v_{i, j} | ^ 2 \prod_{k=1; k \neq i}^{n} (\lambda_i (A) - \lambda_k (A)) = \prod_{k=1}^{n - 1}  (\lambda_i (A) - \lambda_k (M_j))$$
+```
 
 
 ## Authors and Abstract
