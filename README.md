@@ -10,9 +10,7 @@ Easily run it on your browser through Google Colab or copy the function locally.
 
 **Lemma 2.** __The norm squared of the elements of the eigenvectors are related to the eigenvalues and the submatrix eigenvalues,__
 
-$$
-| v_{i, j} | ^ 2 \prod_{k=1; k \neq i}^{n} (\lambda_i (A) - \lambda_k (A)) = \prod_{k=1}^{n - 1}  (\lambda_i (A) - \lambda_k (M_j))
-$$
+$$| v_{i, j} | ^ 2 \prod_{k=1; k \neq i}^{n} (\lambda_i (A) - \lambda_k (A)) = \prod_{k=1}^{n - 1}  (\lambda_i (A) - \lambda_k (M_j))$$
 
 
 ## Authors and Abstract
